@@ -4,6 +4,6 @@ A simple Python script that uses the Hugging Face transformers library to genera
 ## Technologies Used 
 
   * **Python**
-  * **Hugging Face `transformers`**: The main library used to access the pre-trained NLP model.
-  * **PyTorch (`torch`)**: The backend framework that powers the model.
-  * **`sentencepiece`**: A tokenizer library required by the BART model.
+  * **Hugging Face (transformers)**: The main library used to access the pre-trained NLP model.
+  * **PyTorch (torch)**: The backend framework that powers the model.
+  * **Sentencepiece**: A tokenizer library required by the BART model.
